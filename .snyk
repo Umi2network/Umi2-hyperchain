@@ -1,0 +1,3 @@
+exclude:
+  global:
+    - infra/umi-replica/**  # snyk does not respect kustomizations, so not useful here
